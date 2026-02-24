@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-todo",
-    "slug": "rn-todo",
+    "name": "rn-todo-68",
+    "slug": "rn-todo-68",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -34,7 +34,8 @@
             "./assets/fonts/Prompt-Bold.ttf"
           ]
         }
-      ]
+      ],
+      "expo-asset"
     ],
     "scheme": "my-app-scheme",
     "extra": {
