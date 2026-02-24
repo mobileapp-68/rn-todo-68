@@ -39,9 +39,11 @@
     ],
     "scheme": "my-app-scheme",
     "extra": {
+      "router": {},
       "eas": {
-        "projectId": "ca735835-f66e-43e0-99c8-1147e3ab261d"
+        "projectId": "86f4e360-f0d3-4ccc-bf91-04fd4d4af001"
       }
-    }
+    },
+    "owner": "nnnpooh"
   }
 }
